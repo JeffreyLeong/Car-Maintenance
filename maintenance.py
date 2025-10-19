@@ -61,8 +61,9 @@ records = [
         "Services": [
             "10,000 Mile Complimentary Maintenance Service",
             "Re-Program Car Key"
+            "Purchase for Physical Car Key"
         ],
-        "Price": 240
+        "Price": 523.36
     },
     {
         "Date": date(2021, 12, 7),
