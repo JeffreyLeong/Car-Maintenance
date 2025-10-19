@@ -43,7 +43,6 @@ records = [
         "Mileage": 14507,
         "Services": [
             "15,000 Mile Maintenance Service",
-            "Brake Fluid Service",
         ],
         "Price": 0
     },
