@@ -17,7 +17,6 @@ records = [
         "Mileage": 39622,
         "Services": [
             "40,000 Mile Maintenance Service",
-            "Brake Fluid Exchange",
         ],
         "Price": 767.11
     },
